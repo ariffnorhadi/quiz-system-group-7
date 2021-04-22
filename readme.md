@@ -1,4 +1,4 @@
-Turn on MySQL Server at Xampp and use the .sql file that is put in this directory.
+Turn on MySQL Server at Xampp and use the sql file that is put in this directory.
 
 Please run log-in.jsp at /web/Lecturer as starting point for this project.
 
